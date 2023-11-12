@@ -1,0 +1,6 @@
+// before_rotating_21346_right
+digraph {
+	21346
+	1356
+	21346 -> 1356
+}

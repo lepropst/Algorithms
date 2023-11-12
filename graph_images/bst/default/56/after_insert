@@ -1,0 +1,6 @@
+// 56/after_insert
+digraph {
+	45
+	56
+	45 -> 56
+}

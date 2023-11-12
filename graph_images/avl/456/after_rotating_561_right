@@ -1,0 +1,6 @@
+// after_rotating_561_right
+digraph {
+	561
+	1234
+	561 -> 1234
+}

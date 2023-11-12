@@ -1,0 +1,6 @@
+// 25/after_insert
+digraph {
+	13
+	25
+	13 -> 25
+}

@@ -1,0 +1,6 @@
+// before_rotating_25_right
+digraph {
+	25
+	23
+	25 -> 23
+}

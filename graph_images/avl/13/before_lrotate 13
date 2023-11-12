@@ -1,0 +1,8 @@
+// before_lrotate 13
+digraph {
+	13
+	23
+	13 -> 23
+	25
+	23 -> 25
+}

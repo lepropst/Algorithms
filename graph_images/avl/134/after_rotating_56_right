@@ -1,0 +1,8 @@
+// after_rotating_56_right
+digraph {
+	56
+	45
+	56 -> 45
+	134
+	56 -> 134
+}

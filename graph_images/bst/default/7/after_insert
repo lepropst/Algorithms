@@ -1,0 +1,6 @@
+// 7/after_insert
+digraph {
+	1
+	7
+	1 -> 7
+}

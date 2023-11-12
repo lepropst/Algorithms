@@ -1,0 +1,6 @@
+// after_lrotate 56
+digraph {
+	56
+	45
+	56 -> 45
+}

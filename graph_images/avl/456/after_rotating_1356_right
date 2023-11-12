@@ -1,0 +1,6 @@
+// after_rotating_1356_right
+digraph {
+	1356
+	21346
+	1356 -> 21346
+}

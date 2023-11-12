@@ -1,0 +1,8 @@
+// before_rotating_134_right
+digraph {
+	134
+	56
+	134 -> 56
+	45
+	56 -> 45
+}
