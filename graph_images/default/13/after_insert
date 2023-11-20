@@ -1,6 +1,0 @@
-// 13/after_insert
-digraph {
-	12
-	13
-	12 -> 13
-}

@@ -1,8 +1,0 @@
-// after_rotating_135_right
-digraph {
-	135
-	134
-	135 -> 134
-	234
-	135 -> 234
-}

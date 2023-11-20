@@ -1,6 +1,0 @@
-// before_lrotate 45
-digraph {
-	45
-	56
-	45 -> 56
-}

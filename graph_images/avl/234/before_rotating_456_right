@@ -1,6 +1,0 @@
-// before_rotating_456_right
-digraph {
-	456
-	356
-	456 -> 356
-}

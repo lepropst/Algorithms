@@ -1,8 +1,0 @@
-// after_lrotate 6
-digraph {
-	6
-	1
-	6 -> 1
-	7
-	6 -> 7
-}

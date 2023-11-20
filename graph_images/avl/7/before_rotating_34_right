@@ -1,6 +1,0 @@
-// before_rotating_34_right
-digraph {
-	34
-	12
-	34 -> 12
-}

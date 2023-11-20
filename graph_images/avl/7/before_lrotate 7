@@ -1,8 +1,0 @@
-// before_lrotate 7
-digraph {
-	7
-	12
-	7 -> 12
-	34
-	12 -> 34
-}

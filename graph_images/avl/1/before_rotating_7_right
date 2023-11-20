@@ -1,6 +1,0 @@
-// before_rotating_7_right
-digraph {
-	7
-	6
-	7 -> 6
-}

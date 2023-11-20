@@ -1,6 +1,0 @@
-// after_rotating_23_right
-digraph {
-	23
-	25
-	23 -> 25
-}

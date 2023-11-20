@@ -1,8 +1,0 @@
-// before_rotating_234_right
-digraph {
-	234
-	135
-	234 -> 135
-	134
-	135 -> 134
-}
